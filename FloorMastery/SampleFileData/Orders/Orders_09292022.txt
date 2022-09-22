@@ -1,0 +1,2 @@
+OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total
+1,Beta,WA,9.25,Wood,160.0,5.15,4.75,824.00,760.00,146.52,1730.52

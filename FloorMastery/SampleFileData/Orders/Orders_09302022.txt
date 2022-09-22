@@ -1,0 +1,2 @@
+OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total
+1,Kilo,WA,9.25,Wood,1580.0,5.15,4.75,8137.00,7505.00,1446.88,17088.88
